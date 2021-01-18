@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.exe
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.deps.json
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.runtimeconfig.json
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.dll
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\bin\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.pdb
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.dll
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.pdb
+C:\Users\Kiril\source\repos\06_Exersice\Task06_Vehicle_Catalogue\obj\Debug\netcoreapp3.1\Task06_Vehicle_Catalogue.genruntimeconfig.cache
