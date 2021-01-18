@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task05_Teamwork_Projects/1.0.0": {
+        "runtime": {
+          "Task05_Teamwork_Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task05_Teamwork_Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

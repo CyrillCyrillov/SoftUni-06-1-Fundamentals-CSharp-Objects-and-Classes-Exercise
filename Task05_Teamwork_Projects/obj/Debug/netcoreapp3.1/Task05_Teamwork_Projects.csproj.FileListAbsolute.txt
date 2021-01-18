@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.exe
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.deps.json
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.runtimeconfig.json
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.dll
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\bin\Debug\netcoreapp3.1\Task05_Teamwork_Projects.pdb
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.dll
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.pdb
+C:\Users\Kiril\source\repos\06_Exersice\Task05_Teamwork_Projects\obj\Debug\netcoreapp3.1\Task05_Teamwork_Projects.genruntimeconfig.cache
