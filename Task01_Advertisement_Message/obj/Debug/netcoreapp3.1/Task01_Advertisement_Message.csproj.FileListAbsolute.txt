@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.exe
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.deps.json
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.runtimeconfig.json
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.dll
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\bin\Debug\netcoreapp3.1\Task01_Advertisement_Message.pdb
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.dll
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.pdb
+C:\Users\Kiril\source\repos\06_Exersice\06_Exersice\obj\Debug\netcoreapp3.1\Task01_Advertisement_Message.genruntimeconfig.cache
